@@ -3,8 +3,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
-<p align="center">
-<a href="https://github.com/itxfahdi/Infect"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/itxfahdi"><img title="Github" src="https://img.shields.io/badge/itxfahdi-brightgreen?style=for-the-badge&logo=github"></a>
