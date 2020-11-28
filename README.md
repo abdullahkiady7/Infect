@@ -1,7 +1,4 @@
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
@@ -88,10 +85,10 @@ __EXIT__ :
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itxfahdi)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/fahadkhalidyt)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/itxfahdi)
-<a href="https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-fahad khalid-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
--jazzcash >>>03206245292
+* `jazzcash >>>03206245292`
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
