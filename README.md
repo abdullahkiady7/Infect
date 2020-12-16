@@ -77,7 +77,7 @@ __EXIT__ :
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://https://www.facebook.com/messages/t/itxfahdi2)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/messages/t/itxfahdi2)
 <a href="https://github.com/itxfahdi"><img title="Github" src="https://img.shields.io/badge/itxfahdi-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/itxfahdi)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.fahadkhalidyt.blogspot.com)
