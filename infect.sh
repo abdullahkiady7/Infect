@@ -28,7 +28,7 @@
 # ████████████████████████████████████████████████████████████████████████████
 		
 		
-# A tool by fahdi www.facebook.com/itx.fahdi
+# A tool by fahdi www.facebook.com/itxfahdi2
 # whatsapp 03206245292
 # Colours
 #-----------------
@@ -66,8 +66,8 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn fahdi$red ◀$rset"
-echo -e "$red                 ⫸$ylo facebook.com/itx.fahdi$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn Fahad Khalid$red ◀$rset"
+echo -e "$red                 ⫸$ylo facebook.com/itxfahdi2$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
