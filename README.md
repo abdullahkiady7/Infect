@@ -77,13 +77,13 @@ __EXIT__ :
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/messages/t/itxfahdi2)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/itxfahdi2)
 <a href="https://github.com/itxfahdi"><img title="Github" src="https://img.shields.io/badge/itxfahdi-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/itxfahdi)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.fahadkhalidyt.blogspot.com)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itxfahdi)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/fahadkhalidyt)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/itxfahdi)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHAT-red?style=for-the-badge&logo=telegram)](https://t.me/itxfahdi)
 <a href="https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-fahad khalid-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
