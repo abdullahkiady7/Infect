@@ -87,7 +87,7 @@ __EXIT__ :
 <a href="https://www.youtube.com/channel/UCUIBe_sBbWcXhF_HQ6fPlqw/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-fahad khalid-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
-* `jazzcash >>>03206245292`
+* `Paypal`
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
